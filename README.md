@@ -9,9 +9,9 @@ You can use this code as it is, without any warranty or support by the repositor
 
 If you find issues in the code, please report these in the issues list here on Github.
 ## Documentation ##
-The following documents are supported;
-Categories: PURCHASE, PURCHORDER, SALES
-Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memos and Orders
+The following documents are supported;<br>
+Document Categories: PURCHASE, PURCHORDER, SALES<br>
+Document Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memos and Orders
 
 **Setup**
 - Download the DC+MEM Dimension Helper .app and add to Business Central
@@ -28,12 +28,10 @@ Note: “Code” must be the same as the Dimension Code and “Source Table” m
 - https://www.youtube.com/watch?v=-pGKCP77tw8
 
 ## Changelog ##
-**22.0.5.5** – “DC+MEM Dimension Helper”
-
+**22.0.5.5** – “DC+MEM Dimension Helper”<br>
 Update by Continia Software Inc. 
 - FindSet parameters updated
 - OnBeforeInsert Line events updated to save user changes
 
-**18.4.1.0** – “DC MEM Dimensions” 
-
+**18.4.1.0** – “DC MEM Dimensions”<br>
 Initial release by SIGA Solutions Inc. 
