@@ -25,7 +25,8 @@ Note: “Code” must be the same as the Dimension Code and “Source Table” m
 **Usage**
 - Ensure the Global Dimension 1 field is captured in the Document Journal’s / Document Header area
 - Document Journal / “Register” the document through any means to build the transaction
-- https://www.youtube.com/watch?v=-pGKCP77tw8
+- Demo video on Youtube<br>
+[![Watch the video](https://img.youtube.com/vi/-pGKCP77tw8/hqdefault.jpg)](https://www.youtube.com/embed/-pGKCP77tw8)
 
 ## Changelog ##
 **22.0.5.5** – "DC+MEM Dimension Helper"<br>
@@ -35,6 +36,3 @@ _Update by Continia Software Inc._
 
 **18.4.1.0** – “DC MEM Dimensions”<br>
 _Initial release by SIGA Solutions Inc._ 
-
-
-[![Watch the video](https://img.youtube.com/vi/-pGKCP77tw8/hqdefault.jpg)](https://www.youtube.com/embed/-pGKCP77tw8)
