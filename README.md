@@ -17,6 +17,7 @@ Note: “Code” must be the same as the Dimension Code and “Source Table” m
 The following documents are supported;
 Categories: PURCHASE, PURCHORDER, SALES
 Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memos and Orders
+
 **Usage**
 - Ensure the Global Dimension 1 field is captured in the Document Journal’s / Document Header area
 - Document Journal / “Register” the document through any means to build the transaction
