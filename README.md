@@ -1,5 +1,5 @@
 # DC+MEM Dimension Helper
-Business Central extension to allow Document Capture (DC) to work together with Binary Stream’s Multi Entity Management (MEM).
+Business Central extension to allow Document Capture to work together with Binary Stream’s Multi Entity Management.
 ## Introduction ##
 This repository contains a helper extension for the Continia Document Capture (DC) module and changes the order header fields are validated to retain compatibility with Binary Stream’s Multi Entity Management (MEM) module. 
 
