@@ -25,7 +25,7 @@ Note: “Code” must be the same as the Dimension Code and “Source Table” m
 **Usage**
 - Ensure the Global Dimension 1 field is captured in the Document Journal’s / Document Header area
 - Document Journal / “Register” the document through any means to build the transaction
-- Demo video on Youtube<br>
+- Demo video<br>
 [![Watch the video](https://img.youtube.com/vi/-pGKCP77tw8/hqdefault.jpg)](https://www.youtube.com/embed/-pGKCP77tw8)
 
 ## Changelog ##
