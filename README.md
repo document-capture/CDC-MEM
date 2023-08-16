@@ -19,6 +19,7 @@ Note: “Code” must be the same as the Dimension Code and “Source Table” m
 The following documents are supported;
 
 Categories: PURCHASE, PURCHORDER, SALES
+
 Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memos and Orders
 
 
