@@ -9,27 +9,23 @@ You can use this code as it is, without any warranty or support by the repositor
 
 If you find issues in the code, please report these in the issues list here on Github.
 ## Documentation ##
+The following documents are supported;
+Categories: PURCHASE, PURCHORDER, SALES
+Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memos and Orders
+
 **Setup**
 - Download the DC+MEM Dimension Helper .app and add to Business Central
 ‘Extension Management’ / Manage / “Upload Extension”
 - Identify Global Dimension 1
 ‘General Ledger Setup’ / Dimensions / 
 - Edit the associated ‘Document Category’ and Edit the master Template to make Global Dimension 1 required and insert on new templates (image 1)
+
 Note: “Code” must be the same as the Dimension Code and “Source Table” must be Dimension Value
-
-
-The following documents are supported;
-
-Categories: PURCHASE, PURCHORDER, SALES
-
-Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memos and Orders
-
 
 **Usage**
 - Ensure the Global Dimension 1 field is captured in the Document Journal’s / Document Header area
 - Document Journal / “Register” the document through any means to build the transaction
-
-https://www.youtube.com/watch?v=-pGKCP77tw8
+- https://www.youtube.com/watch?v=-pGKCP77tw8
 
 ## Changelog ##
 **22.0.5.5** – “DC+MEM Dimension Helper”
