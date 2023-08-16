@@ -14,6 +14,7 @@ If you find issues in the code, please report these in the issues list here on G
 ‘General Ledger Setup’ / Dimensions / 
 - Edit the associated ‘Document Category’ and Edit the master Template to make Global Dimension 1 required and insert on new templates (image 1)
 
+
 Note: “Code” must be the same as the Dimension Code and “Source Table” must be Dimension Value
 The following documents are supported;
 
@@ -26,9 +27,11 @@ Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memo
 - Document Journal / “Register” the document through any means to build the transaction
 ## Changelog ##
 **22.0.5.5** – “DC+MEM Dimension Helper”
+
 Update by Continia Software Inc. 
 - FindSet parameters updated
 - OnBeforeInsert Line events updated to save user changes
 
 **18.4.1.0** – “DC MEM Dimensions” 
+
 Initial release by SIGA Solutions Inc. 
