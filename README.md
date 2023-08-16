@@ -28,6 +28,9 @@ Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memo
 **Usage**
 - Ensure the Global Dimension 1 field is captured in the Document Journal’s / Document Header area
 - Document Journal / “Register” the document through any means to build the transaction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pGKCP77tw8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Changelog ##
 **22.0.5.5** – “DC+MEM Dimension Helper”
 
