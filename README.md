@@ -15,7 +15,7 @@ If you find issues in the code, please report these in the issues list here on G
 - Identify Global Dimension 1
 ‘General Ledger Setup’ / Dimensions / 
 - Edit the associated ‘Document Category’ and Edit the master Template to make Global Dimension 1 required and insert on new templates (image 1)
-- Note: “Code” must be the same as the Dimension Code and “Source Table” must be Dimension Value
+Note: “Code” must be the same as the Dimension Code and “Source Table” must be Dimension Value
 
 
 The following documents are supported;
@@ -29,7 +29,7 @@ Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memo
 - Ensure the Global Dimension 1 field is captured in the Document Journal’s / Document Header area
 - Document Journal / “Register” the document through any means to build the transaction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-pGKCP77tw8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=-pGKCP77tw8
 
 ## Changelog ##
 **22.0.5.5** – “DC+MEM Dimension Helper”
