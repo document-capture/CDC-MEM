@@ -13,9 +13,8 @@ If you find issues in the code, please report these in the issues list here on G
 - Identify Global Dimension 1
 ‘General Ledger Setup’ / Dimensions / 
 - Edit the associated ‘Document Category’ and Edit the master Template to make Global Dimension 1 required and insert on new templates (image 1)
+- Note: “Code” must be the same as the Dimension Code and “Source Table” must be Dimension Value
 
-
-Note: “Code” must be the same as the Dimension Code and “Source Table” must be Dimension Value
 The following documents are supported;
 
 Categories: PURCHASE, PURCHORDER, SALES
