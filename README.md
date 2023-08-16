@@ -30,6 +30,18 @@ Note: “Code” must be the same as the Dimension Code and “Source Table” m
 - Demo video<br>
 [![Watch the video](https://img.youtube.com/vi/-pGKCP77tw8/hqdefault.jpg)](https://www.youtube.com/embed/-pGKCP77tw8)
 
+## Setup Images ##
+<Table>
+<TR><TD><b>Image 1 - Template Field Card - Global Dim 1 (ENTITY)</b></TD></TR>
+<TR><TD><img src="https://github.com/document-capture/CDC-MEM/assets/141848259/88e6150a-3c00-4595-9585-22bbc1572209" align=left width=50%></TD></TR>
+
+<TR><TD><b>Image 2 - Lookup Source Table Filters - Global Dim 1</b></TD></TR>
+<TR><TD><img src="https://github.com/document-capture/CDC-MEM/assets/141848259/751b2d69-96d5-4e30-83a0-1b2b67329b86" align=left width=50%></TD></TR>
+
+<TR><TD><b>Image 3 - Document Journal - Global Dim 1 required</b></TD></TR>
+<TR><TD><img src="https://github.com/document-capture/CDC-MEM/assets/141848259/18d330dd-d2e8-49d9-81b3-6eb73cde7f6f" align=left width=50%></TD></TR>
+</Table>
+
 ## Changelog ##
 **22.0.5.5** – "DC+MEM Dimension Helper"<br>
 _Update by Continia Software Inc._ 
@@ -38,13 +50,3 @@ _Update by Continia Software Inc._
 
 **18.4.1.0** – “DC MEM Dimensions”<br>
 _Initial release by SIGA Solutions Inc._ 
-
-## Images ##
-**Image 1 - Template Field Card - Global Dim 1 (ENTITY)**
-![Image 1 - Template Field Card - Global Dim 1](https://github.com/document-capture/CDC-MEM/assets/141848259/88e6150a-3c00-4595-9585-22bbc1572209)
-
-**Image 2 - Lookup Source Table Filters - Global Dim 1**
-![Image 2 - Lookup Source Table Filters - Global Dim 1](https://github.com/document-capture/CDC-MEM/assets/141848259/751b2d69-96d5-4e30-83a0-1b2b67329b86)
-
-**Image 3 - Document Journal - Global Dim 1**
-![Image 3 - Document Journal - Global Dim 1](https://github.com/document-capture/CDC-MEM/assets/141848259/18d330dd-d2e8-49d9-81b3-6eb73cde7f6f)
