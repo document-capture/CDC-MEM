@@ -18,7 +18,9 @@ If you find issues in the code, please report these in the issues list here on G
 
 The following documents are supported;
 
+
 Categories: PURCHASE, PURCHORDER, SALES
+
 
 Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Credit Memos and Orders
 
