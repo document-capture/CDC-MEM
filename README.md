@@ -16,13 +16,15 @@ Document Types: Purchase Credit Memos, Invoices, Orders, Return Orders, Sales Cr
 
 **Setup**
 - Download the DC+MEM Dimension Helper .app and add to Business Central<br>
-‘Extension Management’ / Manage / “Upload Extension”
+Search for ‘Extension Management’ / Manage / “Upload Extension”
 - Identify Global Dimension 1<br>
-‘General Ledger Setup’ / Dimensions / 
-- Edit the associated ‘Document Category’ and Edit the master Template to make Global Dimension 1 required and insert on new templates<br>
-(see images)
+Search for ‘General Ledger Setup’ / Dimensions / 
+- "Edit" the associated ‘Document Category’ and "Edit" the master Template to make Global Dimension 1 required and insert on new templates
 
-Note: “Code” must be the same as the Dimension Code and “Source Table” must be Dimension Value
+Notes:<br>
+If the dimensions are setup before DC, they will be automatically added as header fields in DC<br> 
+If not “Code” must be the same as the Dimension Code and “Source Table” must be Dimension Value<br>
+(See images)
 
 **Usage**
 - Ensure the Global Dimension 1 field is captured in the Document Journal’s / Document Header area
