@@ -6,7 +6,7 @@ This repository contains a helper extension for the Continia Document Capture (D
 The code will be unregularly maintained or updated.
 ## Remark ##
 You can use this code as it is, without any warranty or support by the repository owner or Continia Software A/S.<br>
-You can use this app on your own risk.
+You can use this app at your own risk.
 
 If you find issues in the code, please report these in the issues list here on Github.
 ## Documentation ##
