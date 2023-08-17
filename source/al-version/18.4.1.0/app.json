@@ -1,0 +1,30 @@
+{
+  "id": "237e981b-3949-4f2b-8f27-d73880b5360c",
+  "name": "DC MEM Dimensions",
+  "publisher": "SIGA Solutions Ltd.",
+  "version": "18.4.1.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {"id": "4b915d7e-c02a-435f-85ab-649086c1e002", "name": "Continia Core", "publisher": "Continia Software", "version": "4.2.0.0"},
+    {"id": "0745e76d-0b72-4641-87c2-ee45db5d2c32", "name": "Continia Delivery Network", "publisher": "Continia Software", "version": "1.2.0.3"},
+    {"id": "6da8dd2f-e698-461f-9147-8e404244dd85", "name": "Continia Document Capture 365", "publisher": "Continia Software", "version": "7.2.0.3"}
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50002
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DCMEMDimensions.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
