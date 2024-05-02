@@ -1,7 +1,7 @@
 # DC+MEM Dimension Helper
 Business Central extension to allow Document Capture to work together with Binary Stream’s Multi Entity Management.
 <BR><BR>
-${\textsf{\color{Orange}As of April 2024 with the release of Business Central 2024 R1 (v24) and Document Capture 2024 R1 (v24).}}$
+${\textsf{\color{Orange}As of April 2024 with the release of Business Central 2024 R1 (v24) and Document Capture 2024 R1 (v24),}}$
 ${\textsf{\color{Orange}this helper app is no longer needed.}}$
 <BR><BR>
 ${\textsf{\color{Orange}The Entity dimension handling feature is now supported in the base Document Capture app.}}$
